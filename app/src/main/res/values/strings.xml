@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyHomeWork</string>
+    <string name="lblMain">Bienvenido</string>
+    <string name="btnEnter">Entrar</string>
+</resources>
